@@ -1,0 +1,2 @@
+# CPSC-441
+Writing a simple HTTP proxy for the Web; designing a UDP-based file transfer protocol; analysis of peer-to-peer media streaming systems; doing Redundant Traffic Elimination (RTE) on TCP byte streams; analyzing TCP network traffic trace using Wireshark; characterizing Internet routing paths; assessing buffer management strategies in router architectures; and simulation modeling of Medium Access Control (MAC) protocols.
